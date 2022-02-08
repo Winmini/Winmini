@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently study Java Back-End
+- 🌱 I’m currently studying Java Back-End
 - 📫 How to reach me: seungmin9066@gmail.com
 <!--
 **Winmini/Winmini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
