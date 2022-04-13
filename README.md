@@ -4,7 +4,7 @@
 - 📫 How to reach me: seungmin9066@gmail.com
 
 [![Solved.ac
-seungmin96](http://mazassumnida.wtf/api/v2/generate_badge?boj=letsksy)](https://solved.ac/letsksy)
+seungmin96](http://mazassumnida.wtf/api/v2/generate_badge?boj=seungmin96)](https://solved.ac/seungmin96)
 <!--
 **Winmini/Winmini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
