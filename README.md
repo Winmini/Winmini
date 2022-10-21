@@ -3,7 +3,6 @@
 - 🌱 I’m currently studying Java Back-End
 - 📫 How to reach me: seungmin9066@gmail.com
 
-- 2022.01.05 ~ 2022.06.05 SSAFY 7th
 - 2022.06.27 ~ 2022.08.31 KAKAO INTERN
 - 2022.09.05 ~ VIVA REPUBLICA
 
